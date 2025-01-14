@@ -1,0 +1,12 @@
+﻿{
+    "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+    "id": "BSPlugin1",
+    "name": "BSPlugin1",
+    "author": "PeddaVomMond",
+    "version": "0.0.1",
+    "description": "PeddaVomMond Erster Mod",
+    "gameVersion": "1.39.1",
+    "dependsOn": {
+        "BSIPA": "^4.2.0"
+    }
+}

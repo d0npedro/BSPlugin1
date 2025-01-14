@@ -2,7 +2,7 @@
 using IPA.Config.Stores;
 
 [assembly: InternalsVisibleTo(GeneratedStore.AssemblyVisibilityTarget)]
-namespace BSPlugin1.Configuration
+namespace BeatBits.Configuration
 {
     internal class PluginConfig
     {
